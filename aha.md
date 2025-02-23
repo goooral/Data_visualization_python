@@ -39,4 +39,4 @@ PowerPoint relies on manual adjustment of each element and allows for a large ra
 ## A selection of PowerPoint specials
 Here are some common PowerPoint issues seen in presentations:
 
-to już dla mnie!!!!
+to na potem
